@@ -5,6 +5,7 @@ constructor(movieName,name,date,session,seat,price){
     this.date=date
     this.session=session
     this.seat=seat
+    sadasdasd
     this.price=price
     sfdsf
     }
