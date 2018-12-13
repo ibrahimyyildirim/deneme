@@ -1,6 +1,6 @@
-Focus	15.12.2018	13:45	D_9	ibrahim Yýldýrým	ibr@mail.com
-Focus	15.12.2018	13:45	D_10	ibrahim Yýldýrým	ibr@mail.com
-Focus	15.12.2018	13:45	D_10	ibrahim Yýldýrým	ibr@mail.com
+Focus	15.12.2018	13:45	D_9	ibrahim Yildirim	ibr@mail.com
+Focus	15.12.2018	13:45	D_10	ibrahim Yildirim	ibr@mail.com
+Focus	15.12.2018	13:45	D_10	ibrahim Yildirim	ibr@mail.com
 Focus	15.12.2018	13:45	A_3	mehmet Kurt	mehmet@mail.com
 Focus	15.12.2018	13:45	D_4	mehmet Kurt	mehmet@mail.com
 Inception	16.12.2018	11:00	D_4	Hakan Mert	hakan@mail.com
