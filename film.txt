@@ -1,8 +1,8 @@
-Goodfellas	2018-12-17	13:45	D-8	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	13:45	D-9	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	13:45	D-10	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	13:45	A-11	Mehmet Kurt	mehmet@mail.com
-Goodfellas	2018-12-17	13:45	A-12	Mehmet Kurt	mehmet@mail.com
+Goodfellas	2018-12-17	11:00	D-8	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-17	11:00	D-9	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-17	11:00	D-10	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-17	11:00	A-11	Mehmet Kurt	mehmet@mail.com
+Goodfellas	2018-12-17	11:00	A-12	Mehmet Kurt	mehmet@mail.com
 Inception	2018-12-17	16:30	E-4	Hakan Mert	hakan@mail.com
 Inception	2018-12-17	16:30	E-5	Hakan Mert	hakan@mail.com
 Inception	2018-12-17	16:30	B-1	Ayşe Fatma	ayse@mail.com
