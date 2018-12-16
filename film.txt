@@ -1,15 +1,15 @@
-Goodfellas	2018-12-17	13:45	D 8	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	13:45	D 9	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	13:45	D 10	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	13:45	A 11	Mehmet Kurt	mehmet@mail.com
-Goodfellas	2018-12-17	13:45	A 11	Mehmet Kurt	mehmet@mail.com
-Inception	2018-12-17	16:00	E 4	Hakan Mert	hakan@mail.com
-Inception	2018-12-17	16:00	E 5	Hakan Mert	hakan@mail.com
-Inception	2018-12-17	16:00	B 1	Ayşe Fatma	ayse@mail.com
-Inception	2018-12-17	16:00	B 2	Ayşe Fatma	ayse@mail.com
-Inception	2018-12-17	16:00	B 3	Ayşe Fatma	ayse@mail.com
-The Great Gatsby	2018-12-17	13:45	A 1	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A 2	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A 3	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A 4	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A 5	Di Caprio	caprio@mail.com
+Goodfellas	2018-12-17	13:45	D-8	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-17	13:45	D-9	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-17	13:45	D-10	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-17	13:45	A-11	Mehmet Kurt	mehmet@mail.com
+Goodfellas	2018-12-17	13:45	A-11	Mehmet Kurt	mehmet@mail.com
+Inception	2018-12-17	16:00	E-4	Hakan Mert	hakan@mail.com
+Inception	2018-12-17	16:00	E-5	Hakan Mert	hakan@mail.com
+Inception	2018-12-17	16:00	B-1	Ayşe Fatma	ayse@mail.com
+Inception	2018-12-17	16:00	B-2	Ayşe Fatma	ayse@mail.com
+Inception	2018-12-17	16:00	B-3	Ayşe Fatma	ayse@mail.com
+The Great Gatsby	2018-12-17	13:45	A-1	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-17	13:45	A-2	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-17	13:45	A-3	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-17	13:45	A-4	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-17	13:45	A-5	Di Caprio	caprio@mail.com
