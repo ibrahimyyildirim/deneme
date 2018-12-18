@@ -1,15 +1,20 @@
-Goodfellas	2018-12-17	11:00	D-8	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	11:00	D-9	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	11:00	D-10	ibrahim Yıldırım	ibrahim@mail.com
-Goodfellas	2018-12-17	11:00	A-11	Mehmet Kurt	mehmet@mail.com
-Goodfellas	2018-12-17	11:00	A-12	Mehmet Kurt	mehmet@mail.com
-Inception	2018-12-17	16:30	E-4	Hakan Mert	hakan@mail.com
-Inception	2018-12-17	16:30	E-5	Hakan Mert	hakan@mail.com
-Inception	2018-12-17	16:30	B-1	Ayşe Fatma	ayse@mail.com
-Inception	2018-12-17	16:30	B-2	Ayşe Fatma	ayse@mail.com
-Inception	2018-12-17	16:30	B-3	Ayşe Fatma	ayse@mail.com
-The Great Gatsby	2018-12-17	13:45	A-1	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A-2	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A-3	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A-4	Di Caprio	caprio@mail.com
-The Great Gatsby	2018-12-17	13:45	A-5	Di Caprio	caprio@mail.com
+Goodfellas	2018-12-19	11:00	D-8	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-19	11:00	D-9	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-19	11:00	D-10	ibrahim Yıldırım	ibrahim@mail.com
+Goodfellas	2018-12-19	11:00	A-11	Mehmet Kurt	mehmet@mail.com
+Goodfellas	2018-12-19	11:00	A-12	Mehmet Kurt	mehmet@mail.com
+Goodfellas	2018-12-19	11:00	E-1	John Abruzzi	john@mail.com
+Goodfellas	2018-12-19	11:00	E-2	John Abruzzi	john@mail.com
+Goodfellas	2018-12-19	11:00	H-4	Lincoln Burrows	lincoln@mail.com
+Goodfellas	2018-12-19	11:00	H-5	Lincoln Burrows	lincoln@mail.com
+Goodfellas	2018-12-19	11:00	A-6 Lincoln Burrows	lincoln@mail.com
+Inception	2018-12-19	16:30	E-4	Hakan Mert	hakan@mail.com
+Inception	2018-12-19	16:30	E-5	Hakan Mert	hakan@mail.com
+Inception	2018-12-19	16:30	B-1	Ayşe Fatma	ayse@mail.com
+Inception	2018-12-19	16:30	B-2	Ayşe Fatma	ayse@mail.com
+Inception	2018-12-19	16:30	B-3	Ayşe Fatma	ayse@mail.com
+The Great Gatsby	2018-12-19	13:45	A-1	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-19	13:45	A-2	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-19	13:45	A-3	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-19	13:45	A-4	Di Caprio	caprio@mail.com
+The Great Gatsby	2018-12-19	13:45	A-5	Di Caprio	caprio@mail.com
