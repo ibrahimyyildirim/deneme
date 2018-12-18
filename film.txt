@@ -7,7 +7,6 @@ Goodfellas	2018-12-19	11:00	E-1	John Abruzzi	john@mail.com
 Goodfellas	2018-12-19	11:00	E-2	John Abruzzi	john@mail.com
 Goodfellas	2018-12-19	11:00	H-4	Lincoln Burrows	lincoln@mail.com
 Goodfellas	2018-12-19	11:00	H-5	Lincoln Burrows	lincoln@mail.com
-Goodfellas	2018-12-19	11:00	A-6 Lincoln Burrows	lincoln@mail.com
 Inception	2018-12-19	16:30	E-4	Hakan Mert	hakan@mail.com
 Inception	2018-12-19	16:30	E-5	Hakan Mert	hakan@mail.com
 Inception	2018-12-19	16:30	B-1	Ayşe Fatma	ayse@mail.com
